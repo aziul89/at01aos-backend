@@ -1,3 +1,5 @@
+package com.example.backend.controller;
+
 public class MyData {
     private String field1;
     private int field2;
